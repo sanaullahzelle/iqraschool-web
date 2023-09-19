@@ -1,0 +1,79 @@
+table
+{
+	background-color: skyblue;
+	border: dashed;
+	border-radius: 30px 0px 3 0px 0px;
+	font-weight: bold;
+	border-radius: 20px;
+    width: 40%;
+
+}
+
+
+}
+body
+{
+    background-color: rgb(201, 76, 76);
+}
+#name
+{
+	background-color: black;
+	color: white;
+	font-size: ;
+	font-family: vardana;
+	font-weight: bold;
+}
+.sana
+{
+	background-color: black;
+	color: white;
+}
+.cap
+{
+	font-size: 30px;
+}
+.main{
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+    position: absolute;   
+}
+
+.navbar{
+    width: 1400px;
+    height: 100px;
+    margin: auto;
+}
+
+.menu{
+    width: 400px;
+    float: left;
+    height: 70px;
+}
+
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 30px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: black;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+
+ul li a:hover{
+    color: white;
